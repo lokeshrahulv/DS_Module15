@@ -14,11 +14,9 @@ To write a C function to perform post order traversal of a binary tree.
 
 ## Program:
 ```
-/*
 Program to perform post order traversal of a binary tree.
-Developed by: ASHWIN KUMAR S
-RegisterNumber: 212222240013
-*/
+Developed by: LOKESH RAHUL V V
+RegisterNumber: 212222100024
 
 ```
 ```c
