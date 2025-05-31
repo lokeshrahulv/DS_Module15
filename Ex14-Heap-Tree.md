@@ -17,7 +17,7 @@ Program to delete an element in a Heap Tree
 Developed by: LOKESH RAHUL V V
 RegisterNumber: 212222100024 
 ```
-```c
+```
 void deleteRoot(int array[], int num) 
 { 
   int i; 
