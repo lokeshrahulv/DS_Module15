@@ -15,11 +15,9 @@ To write a C function to insert the elements in the binary search tree
 
 ## Program:
 ```
-/*
 Program to insert the elements in the binary search tree
-Developed by: ASHWIN KUMAR S
-RegisterNumber: 212222240013
-*/
+Developed by: LOKESH RAHUL V V
+RegisterNumber: 212222100024
 ```
 ```c
 *structnode
