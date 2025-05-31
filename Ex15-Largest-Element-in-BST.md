@@ -12,13 +12,11 @@ To Write a c program to find the largest value in a Binary Search Tree.
 
 ## Program:
 ```
-/*
 Program to find and display the priority of the operator in the given Postfix expression
-Developed by: ASHWIN KUMAR S
-RegisterNumber: 212222240013
-*/
+Developed by: LOKESH RAHUL V V
+RegisterNumber: 212222100024
 ```
-```c
+```
 
 #include <stdio.h>
 #include <stdlib.h>
